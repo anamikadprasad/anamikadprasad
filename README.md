@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: anamikadp52@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: 
 
 <!---
